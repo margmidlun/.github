@@ -1,1 +1,3 @@
 # Stafræn miðlun og hönnun
+
+í vinnslu ...
