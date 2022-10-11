@@ -1,3 +1,3 @@
 # Stafræn miðlun og hönnun
 
-í vinnslu ...
+í vinnslu ... hér kemur kennsluáætlunin
