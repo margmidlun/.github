@@ -20,7 +20,9 @@ Lokaverkefnið er kynningarmynd þar sem nemendur nota þá kunnáttu sem þeir 
 | 49  | Lokaverkefni. Undirbúningsvinna og sögusvið (_Storyboard_) | 6  | 6<sup>2</sup> | 10  |
 | 50  | Lokaverkefni. Kvikmynd með grafískum og tölulegum upplýsingum | 7  | 8 |   |
 | 51  | Lokaverkefni | 7 | 8<sup>3</sup> | 20  |
-|   | <sub>Námsmatsdagar, (1) 06/09 og (2) 28/09<br>(3) **Skil á lokaverkefni er 13. október**. - Spönn 1 lýkur  18/10 </sub> |  |  | 100%  |
+|   | <sub>Námsmatsdagar, (1) 09/11 og (2) 24/11<br>(3) **Skil á lokaverkefni er 12. desember**. - Spönn 2 lýkur  16/12 </sub> |  |  | 100%  |
+
+---
 
 #### 👋 Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
