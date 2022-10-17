@@ -14,7 +14,7 @@ Lokaverkefnið er kynningarmynd þar sem nemendur nota þá kunnáttu sem þeir 
 |---|---|---|---|---|
 | 42 - 43  | Adobe Animate | 1 | 8  | 14  |
 | 44  | Adobe Animate | 2  | 8  | 14  |
-| 45  | Adobe After Effects | 3  | 6<sup>1</sup> |  |
+| 45  | Adobe After Effects | 3  | 6<sup>1</sup> | 14% |
 | 46  | Adobe After Effects | 4  | 8  | 14  |
 | 47  | Audition og Premiere | 5  | 8  | 14  |
 | 49  | Lokaverkefni. Undirbúningsvinna og sögusvið (_Storyboard_) | 6  | 6<sup>2</sup> | 10  |
