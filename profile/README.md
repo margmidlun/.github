@@ -26,7 +26,7 @@ Lokaverkefnið er kynningarmynd þar sem nemendur nota þá kunnáttu sem þeir 
 
 #### 👋 Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
-#### 🧙 👩‍💻 Verkefni og námsefni er í Innu
+#### 👩‍💻 Verkefni og námsefni er í Innu
 
 #### 🌈 [Vefsíða með verkefnadæmum](https://margmidlun.github.io/2022h/)
 
