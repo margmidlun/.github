@@ -30,4 +30,4 @@ Lokaverkefnið er kynningarmynd þar sem nemendur nota þá kunnáttu sem þeir 
 
 #### 🌈 [Vefsíða með verkefnadæmum](https://margmidlun.github.io/2022h/)
 
-#### 🙋‍♀️ Gangi ykkur vel
+#### 🧙 Gangi ykkur vel
