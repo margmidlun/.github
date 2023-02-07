@@ -5,7 +5,7 @@
 Nemendur setja saman kvikmyndir (video), ljósmyndir og teikningar. Síðan er stafrænum áhrifum (After Effects) bætt við ásamt hljóðsetningu. 
 
 Lokaverkefnið er kynningarmynd þar sem nemendur nota þá kunnáttu sem þeir hafa náð. <!--Hér á vefnum er hægt að skoða <a href="2022v/index.html">lokaverkefni</a> sem nemendur hafa gert-->
-
+<--
 ## Námsáætlun
 
 #### 2022 haust, spönn 2. 
@@ -22,12 +22,13 @@ Lokaverkefnið er kynningarmynd þar sem nemendur nota þá kunnáttu sem þeir 
 | 50  | Lokaverkefni | 7 | 8<sup>3</sup> | 20  |
 |   | <sub>Námsmatsdagar, (1) 09/11 og (2) 24/11<br>(3) **Skil á lokaverkefni er 12. desember**. - Spönn 2 lýkur  16/12 </sub> |  |  | 100%  |
 
----
 
 #### 👋 Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
 #### 👩‍💻 Verkefni og námsefni er í Innu
 
-#### 🌈 [Vefsíða með verkefnadæmum](https://margmidlun.github.io/2022h/)
+#### 🌈 [Vefsíða með verkefnadæmum](https://margmidlun.github.io/)
 
-#### 🧙 Gangi ykkur vel
+#### 🧙 Gangi ykkur vel 
+
+-->
