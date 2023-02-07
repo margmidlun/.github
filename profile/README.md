@@ -5,7 +5,7 @@
 Nemendur setja saman kvikmyndir (video), ljósmyndir og teikningar. Síðan er stafrænum áhrifum (After Effects) bætt við ásamt hljóðsetningu. 
 
 Lokaverkefnið er kynningarmynd þar sem nemendur nota þá kunnáttu sem þeir hafa náð. <!--Hér á vefnum er hægt að skoða <a href="2022v/index.html">lokaverkefni</a> sem nemendur hafa gert-->
-<--
+<!--
 ## Námsáætlun
 
 #### 2022 haust, spönn 2. 
