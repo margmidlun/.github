@@ -9,9 +9,10 @@ Upplýsingatækniskólinn býður upp á fjölbreytt nám í ljósmyndun, prentu
 Nemendur setja saman kvikmyndir (video), ljósmyndir og teikningar. Síðan er stafrænum áhrifum (After Effects) bætt við ásamt hljóðsetningu. 
 Í áfanganum er m.a. gerð 
 
-- Skjáauglýsing 
-- Sjónvarpsauglýsing 
-- Útvarpsauglýsing 
+- Skjáauglýsing, myndblöndun og áhrif
+- Útvarpsauglýsing, hljóðblöndun
+- Sjónvarpsauglýsing, video blandað saman ásamt hljóðsetningu
+
 - Lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, upplestri og stafrænum áhrifum til að fanga athygli áhorfandans. 
 
 
