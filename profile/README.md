@@ -1,11 +1,8 @@
 # Stafræn miðlun og hönnun
 
-Upplýsingatækniskólinn
+Upplýsingatækniskólinn býður upp á fjölbreytt nám í ljósmyndun, prentun, vefhönnun, grafískri og stafrænni hönnun. Forritin sem eru notuð og kennt er á eru mörg og mismunandi en flaggskipið í þeirri flóru aru ADOBE forritin. Það sem gefur Adobe forritunum forskot á önnur sambærileg forrit er að það er hægt að vinna samtímis með forritin og samnýta til að ná fram tilætluðum áhrifum. Aðgerðir og viðmót er samræmt og auðveldar notendum að ná tökum á forritunum. Forritin nýtast í nánast öllum áföngum Upplýsingatækniskólans. Nemendur Tækniskólans geta keypt áskrift að [Adobe Creative Cloud pakkanum](https://tskoli.is/tolvuthjonusta/) á bókasöfnum skólans, Pakkinn kostar 6.000 kr og gildir í eitt ár.
 
-Nemendur Tækniskólans geta keypt áskrift að [Adobe Creative Cloud pakkanum](https://tskoli.is/tolvuthjonusta/) á bókasöfnum skólans, Pakkinn kostar 6.000 kr og gildir í eitt ár.
-https://tskoli.is/tolvuthjonusta/nalgast-adobe-pakkann/
 
-Það sem gefur Adobe forritunum forskot á önnur sambærileg forrit er að það er hægt að vinna samtímis með forritin og samnýta til að ná fram tilætluðum áhrifum. Aðgerðir og viðmót er samræmt og auðveldar notendum að ná tökum á forritunum. 
 
 **Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjásendingar. 
 
