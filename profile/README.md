@@ -11,8 +11,7 @@ Nemendur setja saman kvikmyndir (video), ljósmyndir og teikningar. Síðan er s
 
 - Skjáauglýsing, myndblöndun og áhrif
 - Útvarpsauglýsing, hljóðblöndun
-- Sjónvarpsauglýsing, video blandað saman ásamt hljóðsetningu
-
+- Sjónvarpsauglýsing, samsetning og blöndun kvikmynda ásamt hljóðsetningu
 - Lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, upplestri og stafrænum áhrifum til að fanga athygli áhorfandans. 
 
 
