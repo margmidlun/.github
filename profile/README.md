@@ -1,5 +1,7 @@
 # Stafræn miðlun og hönnun
 
+### HÖNN2UX05BU
+
 Í áfanganum er m.a. gerð auglýsing fyrir vef, skjáauglýsing fyrir sjónvarp, útvarpsauglýsing og lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, upplestri og stafrænum áhrifum til að fanga athygli áhorfandans. 
 
 Nemendur setja saman kvikmyndir (video), ljósmyndir og teikningar. Síðan er stafrænum áhrifum (After Effects) bætt við ásamt hljóðsetningu. 
