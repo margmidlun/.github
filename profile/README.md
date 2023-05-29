@@ -4,7 +4,7 @@ Upplýsingatækniskólinn býður upp á fjölbreytt nám í ljósmyndun, prentu
 
 ### HÖNN2UX05BU
 
-**Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjásendingar. Forritin sem notuð eru í áfanganaum HÖNN2UX05BU eru _Adobe After Effects, Illustrator, Photoshop, Audition, Premiere og Animate_.
+**Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjásendingar. Forritin sem notuð eru í áfanganum HÖNN2UX05BU eru _Adobe After Effects, Illustrator, Photoshop, Audition, Premiere og Animate_.
 
 Nemendur setja saman kvikmyndir (video), ljósmyndir og teikningar. Síðan er stafrænum áhrifum (After Effects) bætt við ásamt hljóðsetningu. 
 Í áfanganum er m.a. gerð auglýsing fyrir vef, skjáauglýsing fyrir sjónvarp, útvarpsauglýsing og lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, upplestri og stafrænum áhrifum til að fanga athygli áhorfandans. 
