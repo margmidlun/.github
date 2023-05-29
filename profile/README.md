@@ -1,12 +1,14 @@
 # Stafræn miðlun og hönnun
 
-Adobe After Effects er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta áhrifum í kvikmyndir.  Það sem gefur After Effects forskot á önnur sambærileg forrit er að það er hægt að vinna samtímis með önnur forrit sem Adobe býður upp á. Hægt er að hanna kvikyndir fyrir internetið, sjónvarp og hvers kyns skjásendingar. 
+Það sem gefur Adobe forritunum forskot á önnur sambærileg forrit er að það er hægt að vinna samtímis með forritin og samnýta til að ná fram tilætluðum áhrifum. Aðgerðir og viðmót er samræmt og auðveldar notendum að ná tökum á forritunum. 
+
+**Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjásendingar. 
 
 ### HÖNN2UX05BU
 
 Í áfanganum er m.a. gerð auglýsing fyrir vef, skjáauglýsing fyrir sjónvarp, útvarpsauglýsing og lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, upplestri og stafrænum áhrifum til að fanga athygli áhorfandans. 
 
-Forritin sem notuð eru í áfangnaum eru _Adobe After Effects, Illustrator, Photoshop, Audition, Premiere og Animate_.
+Forritin sem notuð eru í áfanganaum eru _Adobe After Effects, Illustrator, Photoshop, Audition, Premiere og Animate_.
 
 Nemendur setja saman kvikmyndir (video), ljósmyndir og teikningar. Síðan er stafrænum áhrifum (After Effects) bætt við ásamt hljóðsetningu. 
 
