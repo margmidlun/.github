@@ -1,6 +1,6 @@
 # Stafræn hönnun og miðlun
 
-### HÖNN2UX05BU
+### HÖNN2UX05BU (👋 í vinnslu)
 
 Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku efni fyrir margmiðlun. Dýpkuð er þekking og hæfni nemenda í notkun á  ýmsum forritum til þess að búa til kvikmyndir með grafískum skilaboðum, einnig er unnið með mynd og hljóðblöndun. Nemendur vinna með teikningar, ljósmyndir, video og hljóð.
 
@@ -33,12 +33,12 @@ Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku 
 |   | <sub>Námsmatsdagar, (1) 09/11 og (2) 24/11<br>(3) **Skil á lokaverkefni er 12. desember**. - Spönn 2 lýkur  16/12 </sub> |  |  | 100%  |
 
 
-#### 👋 Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
+#### 🧙 Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
 #### 👩‍💻 Verkefni og námsefni er í Innu
 
 #### 🌈 [Vefsíða með verkefnadæmum](https://margmidlun.github.io/)
 
-#### 🧙 _Gangi ykkur vel_ 
+####  _Gangi ykkur vel_ 
 
 -->
