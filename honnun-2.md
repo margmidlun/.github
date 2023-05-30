@@ -23,7 +23,7 @@ Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku 
 |---|---|---|---|---|
 | 42 - 43 | Adobe After Effects. Viðmót - composition skipulag | 1 | 12  | 10  |
 | 44 | Adobe After Effects, tímalínan og shape layers/masks | 2  | 8  | 12  |
-| 45 | Adobe After Effects, myndblöndun, rotoscope | 3  | 6<sup>1</sup> | 12 |
+| 45 | Adobe After Effects, texti, myndblöndun, rotoscope | 3  | 6<sup>1</sup> | 12 |
 | 46 | Adobe After Effects, skjáauglýsing | 4  | 8  | 12  |
 | 47 | Audition, auglýsing hljóðsett  | 5  | 8  | 12  |
 | 48 | Premiere, undirbúningsvinna og sögusvið (_Storyboard_) | 6  | 6<sup>2</sup> | 12  |
