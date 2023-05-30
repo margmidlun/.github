@@ -8,7 +8,7 @@ _3 eininga valáfangi fyrir nemendur í Upplýsingatækniskólanum_
 
 Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku efni fyrir margmiðlun. Dýpkuð er þekking og hæfni nemenda í notkun á  ýmsum forritum til þess að búa til kvikmyndir með grafískum skilaboðum, einnig er unnið með mynd og hljóðblöndun. Nemendur vinna með teikningar, ljósmyndir, video og hljóð.
 
-> [Nánari lýsing í vinnslu](https://github.com/margmidlun/margmidlun.github.io)
+> [Nánari lýsing í endurskoðun](https://github.com/margmidlun/margmidlun.github.io)
 
 
 ## Áhrif og endurvinnsla
