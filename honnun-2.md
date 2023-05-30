@@ -1,3 +1,6 @@
+# HÖNN2UX05BU
+
+#### Stafræn hönnun og miðlun
 
 
 **Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. Forritin sem notuð eru í áfanganum HÖNN2UX05BU eru _Adobe After Effects, Illustrator, Photoshop, Audition, Premiere og Animate_.
