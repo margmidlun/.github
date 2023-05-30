@@ -1,7 +1,4 @@
-# HÖNN2UX05BU
-
-#### Stafræn hönnun og miðlun
-
+# Stafræn hönnun og miðlun
 
 ### HÖNN2UX05BU
 
