@@ -17,7 +17,7 @@ Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku 
 
 ## Námsáætlun
 
-#### 2022 haust, spönn 2. 
+#### 2023 haust, spönn 2. 
 
 | Vika  | Verkefni  | Nr. | Tímar | Vægi % |
 |---|---|---|---|---|
