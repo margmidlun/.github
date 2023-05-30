@@ -6,9 +6,8 @@ Upplýsingatækniskólinn býður upp á fjölbreytt nám í ljósmyndun, prentu
 
 Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku efni fyrir margmiðlun. Dýpkuð er þekking og hæfni nemenda í notkun á  ýmsum forritum til þess að búa til kvikmyndir með grafískum skilaboðum, einnig er unnið með mynd og hljóðblöndun. Nemendur vinna með teikningar, ljósmyndir, video og hljóð.
 
-Nánari lýsing í vinnslu.
+> Nánari lýsing í vinnslu.
 
----
 
 ## Áhrif og endurvinnsla
 
@@ -16,4 +15,4 @@ _Valáfangi fyrir nemendur í Tækniskólanum_
 
 **Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_) og vefsíðum. Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit (_Photoshop_) og eða vektor teikniforrit (_Illustrator_).
 
-Nánari lýsing í vinnslu.
+> Nánari lýsing í vinnslu.
