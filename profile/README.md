@@ -12,7 +12,7 @@ Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku 
 
 ---
 
-## Áhrif og endurvinnsla
+## Áhrif og endurvinnsla ÁE1
 
 _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
 
@@ -22,9 +22,11 @@ _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
 
 ---
 
-## Áhrif og eftirvinnsla 2 
+## Áhrif og eftirvinnsla ÁE2 
 
 _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
+
+> Undanfari: HÖNN2UX05BU eða ÁE1
 
 ### Hreyfimyndagerð í AE (í Vinnslu)
 
