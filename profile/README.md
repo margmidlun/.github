@@ -20,7 +20,7 @@ Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku 
 
 _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
 
-**Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_) og vefsíðum. Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit (_Photoshop_) og eða vektor teikniforrit (_Illustrator_).
+**Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_) og vefsíðum. Uppgötvaðu auk þess hvernig á að bæta þrívíddarlögum og myndavélum við senurnar þínar til að fá fjölvíddar sjónarhorn á persónurnar þínar. Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit (_Photoshop_) og eða vektor teikniforrit (_Illustrator_).
 
 <!-- > [Nánari lýsing í vinnslu](https://github.com/margmidlun/AfterEffects) -->
 
@@ -34,4 +34,4 @@ _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
 
 ### Hreyfimyndagerð í Adobe Animate 
 
-Í áfanganum notum við **Adobe Animate** til að búa til teiknimynd. Við byrjum á að vinna með dæmi og notum ýmis tól og tæki til að framkvæma einstakar hreyfingar og tengjum síðan saman í ákveðnu verkflæði.  Uppgötvaðu hvernig á að útbúa persónur með brúðuverkfærunum (_Puppet tools_). Uppgötvaðu auk þess hvernig á að bæta þrívíddarlögum og myndavélum við senurnar þínar til að fá fjölvíddar sjónarhorn á persónurnar þínar. Við förum yfir reglur og brellur til að hámarka kunnáttu þína og sköpunargáfu.
+Í áfanganum notum við **Adobe Animate** til að búa til teiknimynd. Við byrjum á að vinna með dæmi og notum ýmis tól og tæki til að framkvæma einstakar hreyfingar og tengjum síðan saman í ákveðnu verkflæði.  Uppgötvaðu hvernig á að útbúa persónur með brúðuverkfærunum (_Puppet tools_). Við förum yfir reglur og brellur til að hámarka kunnáttu þína og sköpunargáfu. Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. 
