@@ -26,12 +26,12 @@ _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
 
 ---
 
-## Áhrif og eftirvinnsla ÁE2 
+## Hreyfimyndagerð með Adobe Animate
 
 _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
 
-> Undanfari: HÖNN2UX05BU eða ÁE1
 
-### Hreyfimyndagerð í AE (í Vinnslu)
 
-Í áfanganum notum við **Adobe After Effects** til að búa til teiknimynd. Við byrjum á að vinna með dæmi og notum ýmis tól og tæki í AE til að framkvæma einstakar hreyfingar og tengjum síðan saman í ákveðnu verkflæði.  Uppgötvaðu hvernig á að útbúa persónur með brúðuverkfærunum (_Puppet tools_) og stilla lykilramma í graf-ritlinum (_Graph Editor_). Uppgötvaðu auk þess hvernig á að bæta þrívíddarlögum og myndavélum við senurnar þínar til að fá fjölvíddar sjónarhorn á persónurnar þínar. Við förum yfir reglur og brellur til að hámarka kunnáttu þína og sköpunargáfu.
+### Hreyfimyndagerð í Adobe Animate (í Vinnslu)
+
+Í áfanganum notum við **Adobe Animate** til að búa til teiknimynd. Við byrjum á að vinna með dæmi og notum ýmis tól og tæki til að framkvæma einstakar hreyfingar og tengjum síðan saman í ákveðnu verkflæði.  Uppgötvaðu hvernig á að útbúa persónur með brúðuverkfærunum (_Puppet tools_) og stilla lykilramma í graf-ritlinum (_Graph Editor_). Uppgötvaðu auk þess hvernig á að bæta þrívíddarlögum og myndavélum við senurnar þínar til að fá fjölvíddar sjónarhorn á persónurnar þínar. Við förum yfir reglur og brellur til að hámarka kunnáttu þína og sköpunargáfu.
