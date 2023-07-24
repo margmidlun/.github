@@ -25,7 +25,7 @@ _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
 <!-- > [Nánari lýsing í vinnslu](https://github.com/margmidlun/AfterEffects) -->
 
 ---
-
+<!--
 ## Hreyfimyndagerð með Adobe Animate
 
 _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
@@ -35,3 +35,4 @@ _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
 ### Hreyfimyndagerð í Adobe Animate 
 
 Í áfanganum notum við **Adobe Animate** til að búa til teiknimynd. Við byrjum á að vinna með dæmi og notum ýmis tól og tæki til að framkvæma einstakar hreyfingar og tengjum síðan saman í ákveðnu verkflæði.  Uppgötvaðu hvernig á að útbúa persónur með brúðuverkfærunum (_Puppet tools_). Við förum yfir reglur og brellur til að hámarka kunnáttu þína og sköpunargáfu. Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. 
+-->
