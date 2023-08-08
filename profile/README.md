@@ -14,14 +14,14 @@ Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku 
 
 <!--  > [Nánari lýsing í endurskoðun](https://github.com/margmidlun/margmidlun.github.io) -->
 
----
+<!--
 
 ## Áhrif og endurvinnsla ÁE1
 
 _2 eininga valáfangi fyrir nemendur í Tækniskólanum_
 
 **Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_) og vefsíðum. Uppgötvaðu auk þess hvernig á að bæta þrívíddarlögum og myndavélum við senurnar þínar til að fá fjölvíddar sjónarhorn á persónurnar þínar. Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit (_Photoshop_) og eða vektor teikniforrit (_Illustrator_).
-
+-->
 <!-- > [Nánari lýsing í vinnslu](https://github.com/margmidlun/AfterEffects) -->
 
 ---
