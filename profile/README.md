@@ -6,10 +6,9 @@ Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku 
 
 - Lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, hljóðsetningu og stafrænum áhrifum til að fanga athygli áhorfandans. 
 
-Forritin sem notuð eru í áfanganum eru öll hluti af [_Adobe Creative_](https://www.adobe.com/creativecloud.html) pakkanum: _After Effects, Illustrator, Photoshop, Audition_ og _Premiere_. Nemendur Tækniskólans geta keypt áskrift að [Adobe Creative Cloud pakkanum](https://tskoli.is/tolvuthjonusta/) á bókasöfnum skólans, hann kostar 6.000 kr og gildir í eitt ár. Hægt er að endurnýja áskriftina á meðan námi stendur. 
+Forritin sem notuð eru í áfanganum eru öll hluti af [_Adobe Creative_](https://www.adobe.com/creativecloud.html) pakkanum: _After Effects, Illustrator, Photoshop, Audition_ og _Premiere_. [Nemendur Tækniskólans geta keypt áskrift ](https://tskoli.is/tolvuthjonusta/) að Adobe Creative Cloud pakkanum á bókasafni skólans sem gildir í eitt ár. Hægt er að endurnýja áskriftina á meðan námi stendur. 
 
 Lögð er áhersla á að vinna með _**After Effects**_ (AE) sem er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir. Áhrifum er bætt í kvikmyndir ásamt litastillingum og myndblöndun. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. 
-
 
 ## Námsáætlun
 
