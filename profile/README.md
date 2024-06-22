@@ -6,8 +6,6 @@ Upplýsingatækniskólinn býður upp á fjölbreytt nám í ljósmyndun, prentu
 
 ### HÖNN2UX05BU
 
-Stafræn hönnun og miðlun
-
 Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku efni fyrir margmiðlun. Dýpkuð er þekking og hæfni nemenda í notkun á  ýmsum forritum til þess að búa til kvikmyndir með grafískum skilaboðum, einnig er unnið með mynd og hljóðblöndun. Nemendur vinna með teikningar, ljósmyndir, video og hljóð. Nemendur setja saman kvikmyndir (_video_), ljósmyndir og teikningar. Síðan er áhrifum (_Effects_) bætt við ásamt hljóðsetningu. 
 
 Forritin sem notuð eru í áfanganum eru öll hluti af [_Adobe Creative_](https://www.adobe.com/creativecloud.html) pakkanum: _After Effects, Illustrator, Photoshop, Audition_ og _Premiere_. Lögð er áhersla á að vinna með _**After Effects**_ (AE) sem er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir. Áhrifum er bætt í kvikmyndir ásamt litastillingum og myndblöndun. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. 
