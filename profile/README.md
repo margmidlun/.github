@@ -1,10 +1,6 @@
-# Stafræn hönnun og miðlun
+# HÖNN2UX05BU
 
-Upplýsingatækniskólinn býður upp á fjölbreytt nám í ljósmyndun, prentun, vefhönnun, grafískri og stafrænni hönnun. 
-
----
-
-### HÖNN2UX05BU
+> Upplýsingatækniskólinn býður upp á fjölbreytt nám í ljósmyndun, prentun, vefhönnun, grafískri og stafrænni hönnun.
 
 Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku efni fyrir margmiðlun. Dýpkuð er þekking og hæfni nemenda í notkun á  ýmsum forritum til þess að búa til kvikmyndir með grafískum skilaboðum, einnig er unnið með mynd og hljóðblöndun. Nemendur vinna með teikningar, ljósmyndir, video og hljóð. Nemendur setja saman kvikmyndir (_video_), ljósmyndir og teikningar. Síðan er áhrifum (_Effects_) bætt við ásamt hljóðsetningu. 
 
