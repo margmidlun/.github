@@ -22,7 +22,7 @@ Lögð er áhersla á að vinna með _**After Effects**_ (AE) sem er eitt vinsæ
 | 39 | Audition, hljóðvinnsla. AE, kviksaga (_animatic_)  | 5  | 6* | 15  |
 | 40 | Lokaverkefni. _Lykilmatsþáttur_ | 7  | 8 |   |
 | 41 | Lokaverkefni. Kvikmynd með grafískum upplýsingum og stafrænum áhrifum | 8 | 8 | 25  |
-|    | *<sub>Tækniskóladagurinn ---. **Síðasti kennsludagur er ---**. </sub> |  |  | 100%  |
+|    | *<sub>Tækniskóladagurinn ---. **Síðasti kennsludagur er 12.10**. </sub> |  |  | 100%  |
 
 #### 🧙 Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
