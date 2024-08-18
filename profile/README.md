@@ -1,6 +1,6 @@
 ## HÖNN2UX05BU haust 2024
 
-Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku efni fyrir margmiðlun. Dýpkuð er þekking og hæfni nemenda í notkun á  ýmsum forritum til þess að búa til kvikmyndir með grafískum skilaboðum, einnig er unnið með mynd og hljóðblöndun. Nemendur vinna með teikningar, ljósmyndir, video og hljóð. Nemendur setja saman kvikmyndir (_video_), ljósmyndir og teikningar. Síðan er áhrifum (_Effects_) bætt við ásamt hljóðsetningu. 
+Farið er í helstu atriði sem snúa að hugmyndavinnu og vinnslu á grafísku efni fyrir margmiðlun. Dýpkuð er þekking og hæfni nemenda í notkun á  ýmsum forritum til þess að búa til kvikmyndir með grafískum skilaboðum, einnig er unnið með mynd og hljóðblöndun. Nemendur vinna með teikningar, ljósmyndir, video og hljóð. Nemendur setja saman kvikmyndir (_video_), ljósmyndir og teikningar. Síðan er sjónáhrifum (_visual effects_) bætt við ásamt hljóðsetningu. 
 
 - Lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, hljóðsetningu og stafrænum áhrifum til að fanga athygli áhorfandans. 
 
