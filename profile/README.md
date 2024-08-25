@@ -10,7 +10,7 @@ Lögð er áhersla á að vinna með _**After Effects**_ (AE) sem er eitt vinsæ
 
 ## Námsáætlun
 
-#### 2024 haust, spönn 1 (_í vinnslu_). 
+#### 2024 haust, spönn 1. 
 
 | Vika | Verkefni | Nr. | Tímar | Vægi % |
 |---|---|---|---|---|
