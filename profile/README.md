@@ -4,6 +4,12 @@
 
 ---
 
+#  Áhrif og eftirvinnsla
+
+> _Námskeið í myndblöndun og eftirvinnslu kvikmynda er í boði hjá Endurmenntunarskólanum_
+
+---
+
 ## HÖNN2UX05BU
 
 > _3 eininga valáfangi fyrir nemendur í Upplýsingatækniskólanum_
