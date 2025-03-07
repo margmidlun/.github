@@ -2,7 +2,7 @@
 
 ### Upplýsingatækniskólinn býður upp á fjölbreytt nám í ljósmyndun, prentun, vefhönnun, grafískri og stafrænni hönnun. 
 
----
+<!--
 
 #  Áhrif og eftirvinnsla
 
@@ -10,7 +10,7 @@
 
 - [Nánari lýsing á margmidlun.github.io/AfterEffects](https://margmidlun.github.io/AfterEffects) 
 
----
+--->
 
 ## HÖNN2UX05BU
 
