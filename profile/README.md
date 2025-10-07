@@ -1,4 +1,4 @@
-# Stafræn hönnun og miðlun
+# Grafísk hönnun og margmiðlun
 
 ### Upplýsingatækniskólinn býður upp á fjölbreytt nám í ljósmyndun, prentun, vefhönnun, grafískri og stafrænni hönnun. 
 
@@ -12,7 +12,7 @@
 
 --->
 
-## HÖNN2UX05BU
+## GRAF2UX05BU
 
 > _3 eininga valáfangi fyrir nemendur í Upplýsingatækniskólanum_
 
